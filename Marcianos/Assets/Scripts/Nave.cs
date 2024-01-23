@@ -47,6 +47,7 @@ public class Nave : MonoBehaviour
             //Reproduce el sonido de diosparo dentro del array de sonidos es el primero
             audios[0].Play();
         }
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {

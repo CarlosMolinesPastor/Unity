@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Marcianos.sln"
+    "dotnet.defaultSolution": "Marcianos.sln",
+    "git.ignoreLimitWarning": true
 }
